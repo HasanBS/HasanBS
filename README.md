@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Hasan Basri Şenkul
+#### Junior Frontend Developer
+![Junior Frontend Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHTF5XS0RrOoQ/profile-displaybackgroundimage-shrink_350_1400/0/1626299617039?e=1631750400&v=beta&t=A1i6XZ4UNnxYwZRaDwIywML7f2uCWj54IgtyRwB4UV8)
 
-<!--
-**HasanBS/HasanBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I am Hasan from Turkey. I am a junior frontend developer, who really enjoys designing nice looking frontend projects. Flutter one of my favorite frameworks. I am sharing some of my frontend projects there.
 
-Here are some ideas to get you started:
+Skills: Frontend development / Flutter / Dart /  BLoC / Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Flutter and Angular 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HasanBS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasanbsenkul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasannbs/)  
+
